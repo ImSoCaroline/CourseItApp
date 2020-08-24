@@ -1,7 +1,7 @@
 import React from "react";
-import TitleComponent from './components/TitleComponent/TitleComponent';
-import SubtitleComponent from './components/SubtitleComponent/SubtitleComponent';
-import CarouselComponent from './components/CarouselComponent/CarouselComponent';
+import TitleComponent from './components/TitleComponent';
+import SubtitleComponent from './components/SubtitleComponent';
+import CarouselComponent from './components/CarouselComponent';
 // import logo from "./logo.svg";
 // import ClassComponent from "./components/ClassComponent";
 

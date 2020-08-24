@@ -1,5 +1,5 @@
 import React from 'react';
-import CarouselCard from '../CarouselCard/CarouselCard';
+import CarouselCard from '../CarouselCard';
 import PropTypes from 'prop-types';
 
 const CarouselComponent = ({ data }) => {

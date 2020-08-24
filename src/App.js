@@ -2,6 +2,8 @@ import React from "react";
 import TitleComponent from './components/TitleComponent';
 import SubtitleComponent from './components/SubtitleComponent';
 import CarouselComponent from './components/CarouselComponent';
+import InputMirror from './components/InputMirror';
+import Sum from './components/Sum';
 // import logo from "./logo.svg";
 // import ClassComponent from "./components/ClassComponent";
 
@@ -41,6 +43,8 @@ function App() {
     // </div>
 
     <>
+      <Sum />
+      <InputMirror />
       <TitleComponent title='Hola CourseIt' />
       <TitleComponent title='Hola CourseIt' />
       <SubtitleComponent subtitle='Curso de Frontend Avanzado' />
